@@ -1,5 +1,6 @@
 # Lyric-Analyzer
 基于Openai-whisper和Demucs的人声分离+歌词识别器 ver_0.01
+支持大多数语言，适用外语歌曲识别
 
 直接运行，需要略长的时间加载出GUI界面
 ![image](https://github.com/11egativity/Lyric-Analyzer/assets/122090954/031c3074-4ab4-4785-b7b6-0450a71e67e2)
